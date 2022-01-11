@@ -1,2 +1,0 @@
-# lumovies
-Blog pessoal
